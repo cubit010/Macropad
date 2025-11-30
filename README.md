@@ -24,3 +24,4 @@ Friction fitted (with clearance designed for 3d printing (I can print this mysel
 - 1x SSD1306 128x32 OLED 0.91"
 - 4x SK6812-MINI-E LED
 - 9x Blank DSA Keycaps
+- 1x 1x4 2.54mm female header (for boosting height for the display
