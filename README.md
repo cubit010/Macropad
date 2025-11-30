@@ -13,9 +13,9 @@ Case by itself
 Friction fitted (with clearance designed for 3d printing (I'll print this myself)
 
 # BOM
-1x SEEEDUINO XIAO RP2040
-9x MX style switches (5 pin preferred)
-9x Through-hole 1N4148 diodes
-1x SSD1306 128x32 OLED 0.91"
-4x SK6812-MINI-E LED
-9x Blank DSA Keycaps
+- 1x SEEEDUINO XIAO RP2040
+- 9x MX style switches (5 pin preferred)
+- 9x Through-hole 1N4148 diodes
+- 1x SSD1306 128x32 OLED 0.91"-
+- 4x SK6812-MINI-E LED
+- 9x Blank DSA Keycaps
